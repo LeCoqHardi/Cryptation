@@ -31,23 +31,23 @@ while close != "x" :
     
 
 
-    print("======================================================================================")
+    print("============================================================================================================")
     print("")
-    print(" ▄████▄   ██▀███ ▓██   ██▓ ██▓███  ▄▄▄█████▓ ▄▄▄     ▄▄▄█████▓ ██▓ ▒█████   ███▄    █ ")
-    print("▒██▀ ▀█  ▓██ ▒ ██▒▒██  ██▒▓██░  ██▒▓  ██▒ ▓▒▒████▄   ▓  ██▒ ▓▒▓██▒▒██▒  ██▒ ██ ▀█   █ ")
-    print("▒▓█    ▄ ▓██ ░▄█ ▒ ▒██ ██░▓██░ ██▓▒▒ ▓██░ ▒░▒██  ▀█▄ ▒ ▓██░ ▒░▒██▒▒██░  ██▒▓██  ▀█ ██▒")
-    print("▒▓▓▄ ▄██▒▒██▀▀█▄   ░ ▐██▓░▒██▄█▓▒ ▒░ ▓██▓ ░ ░██▄▄▄▄██░ ▓██▓ ░ ░██░▒██   ██░▓██▒  ▐▌██▒")
-    print("▒ ▓███▀ ░░██▓ ▒██▒ ░ ██▒▓░▒██▒ ░  ░  ▒██▒ ░  ▓█   ▓██▒ ▒██▒ ░ ░██░░ ████▓▒░▒██░   ▓██░")
-    print("░ ░▒ ▒  ░░ ▒▓ ░▒▓░  ██▒▒▒ ▒▓▒░ ░  ░  ▒ ░░    ▒▒   ▓▒█░ ▒ ░░   ░▓  ░ ▒░▒░▒░ ░ ▒░   ▒ ▒ ")
-    print("  ░  ▒     ░▒ ░ ▒░▓██ ░▒░ ░▒ ░         ░      ▒   ▒▒ ░   ░     ▒ ░  ░ ▒ ▒░ ░ ░░   ░ ▒░")
-    print("░          ░░   ░ ▒ ▒ ░░  ░░         ░        ░   ▒    ░       ▒ ░░ ░ ░ ▒     ░   ░ ░ ")
-    print("░ ░         ░     ░ ░                             ░  ░         ░      ░ ░           ░ ")
-    print("░                 ░ ░                                                                 ")
+    print(" ▄████▄   ██▀███ ▓██   ██▓ ██▓███  ▄▄▄█████▓ ▄▄▄     ▄▄▄█████▓ ██▓ ▒█████   ███▄    █       ██▓███ ▓██   ██▓")
+    print("▒██▀ ▀█  ▓██ ▒ ██▒▒██  ██▒▓██░  ██▒▓  ██▒ ▓▒▒████▄   ▓  ██▒ ▓▒▓██▒▒██▒  ██▒ ██ ▀█   █      ▓██░  ██▒▒██  ██▒")
+    print("▒▓█    ▄ ▓██ ░▄█ ▒ ▒██ ██░▓██░ ██▓▒▒ ▓██░ ▒░▒██  ▀█▄ ▒ ▓██░ ▒░▒██▒▒██░  ██▒▓██  ▀█ ██▒     ▓██░ ██▓▒ ▒██ ██░")
+    print("▒▓▓▄ ▄██▒▒██▀▀█▄   ░ ▐██▓░▒██▄█▓▒ ▒░ ▓██▓ ░ ░██▄▄▄▄██░ ▓██▓ ░ ░██░▒██   ██░▓██▒  ▐▌██▒     ▒██▄█▓▒ ▒ ░ ▐██▓░")
+    print("▒ ▓███▀ ░░██▓ ▒██▒ ░ ██▒▓░▒██▒ ░  ░  ▒██▒ ░  ▓█   ▓██▒ ▒██▒ ░ ░██░░ ████▓▒░▒██░   ▓██░ ██▓ ▒██▒ ░  ░ ░ ██▒▓░")
+    print("░ ░▒ ▒  ░░ ▒▓ ░▒▓░  ██▒▒▒ ▒▓▒░ ░  ░  ▒ ░░    ▒▒   ▓▒█░ ▒ ░░   ░▓  ░ ▒░▒░▒░ ░ ▒░   ▒ ▒  ▒▓▒ ▒▓▒░ ░  ░  ██▒▒▒ ")
+    print("  ░  ▒     ░▒ ░ ▒░▓██ ░▒░ ░▒ ░         ░      ▒   ▒▒ ░   ░     ▒ ░  ░ ▒ ▒░ ░ ░░   ░ ▒░ ░▒  ░▒ ░     ▓██ ░▒░ ")
+    print("░          ░░   ░ ▒ ▒ ░░  ░░         ░        ░   ▒    ░       ▒ ░░ ░ ░ ▒     ░   ░ ░  ░   ░░       ▒ ▒ ░░  ")
+    print("░ ░         ░     ░ ░                             ░  ░         ░      ░ ░           ░   ░           ░ ░     ")
+    print("░                 ░ ░                                                                   ░           ░ ░     ")
     print("")
-    print("======================================================================================")
+    print("=============================================================================================================")
 
 
-
+#============================================ FUCTIONS PART ============================================================================
     def wait_key():
         ''' Wait for a key press on the console and return it. '''
         result = None
@@ -99,29 +99,44 @@ while close != "x" :
         print("==================================")
         
         serviceadded = input("Which service do you want to show ? (Pay attention to capitalization!) : ")
-        completeName = os.path.join(save_path, serviceadded)
-        f = open(completeName,"rb")
-        TextEncrypted = f.read()
-        #TextEncryptedBytes = bytes(TextEncrypted, 'utf-8')
-        #print(TextEncrypted)
-        #fernet.decrypt(f.read).decode
-        print(fernet.decrypt(TextEncrypted).decode())
-        f.close()
-        print("Press any key to continue...")
-        wait_key()
+        if serviceadded == "":
+            print("No Service entered, returning main menu...")
+            print("Press any key to continue...")
+            wait_key()
+        else:
+            completeName = os.path.join(save_path, serviceadded)
+            f = open(completeName,"rb")
+            TextEncrypted = f.read()
+            #TextEncryptedBytes = bytes(TextEncrypted, 'utf-8')
+            #print(TextEncrypted)
+            #fernet.decrypt(f.read).decode
+            print(fernet.decrypt(TextEncrypted).decode())
+            f.close()
+            print("Press any key to continue...")
+            wait_key()
     
     
     def removeService():
+        print("=========[Services saved]=========")
+        os.system("ls database")
+        print("==================================")
         serviceadded = input("Which service do you want to delete ? (Pay attention to capitalization!) : ")
-        completeName = os.path.join(save_path, serviceadded)
-        os.remove(completeName)
+        if serviceadded == "":
+            print("No Service entered, returning main menu...")
+            print("Press any key to continue...")
+            wait_key()
+        else:
+            completeName = os.path.join(save_path, serviceadded)
+            os.remove(completeName)
     
-    
-    
+#===================================================================================================================================================
+#============================================ APP PART =============================================================================================
+
+
     print("What do you want to do ? ")
     print("=========================")
     print("1 - Show a service")
-    print("2 - Add a service")
+    print("2 - Add/Edit a service")
     #print("3 - Edit a service")
     print("3 - Remove a service")
     print("4 - Close Cryptation")
