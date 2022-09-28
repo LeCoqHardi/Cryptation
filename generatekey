@@ -1,0 +1,9 @@
+#!/bin/env python3
+
+
+from cryptography.fernet import Fernet
+
+f = open(".env", "w")
+key = Fernet.generate_key().decode()
+print("your encription key is (don't change it, it's unique) : " + key)
+f.write("key = '" + key +"'")
